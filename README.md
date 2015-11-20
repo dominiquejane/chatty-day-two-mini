@@ -1,4 +1,4 @@
-##Day 2: Refactor with Express
+ ##Day 2: Refactor with Express
 
 ###Step 1: Install Express
 Let's install Express to get started.
